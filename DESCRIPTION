@@ -1,0 +1,12 @@
+Package: epgdata
+Title: Demo data for use with EPGminer package
+Version: 0.0.1
+Authors@R: 
+    person("Elizabeth", "Chun", , "lizzie_chun1@tamu.edu", role = c("aut", "cre"))
+Description: This is a data package containing raw EPG data in txt and ana files for use in demonstrating the EPGminer package.
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    epgminer
