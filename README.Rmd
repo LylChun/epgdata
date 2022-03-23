@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 
 You can install the `epgdata` package from github as follows.
 
-```{r}
+```{r, eval = F}
 if (!require(devtools)){
   install.packages("devtools")
 }
